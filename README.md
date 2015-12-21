@@ -1,6 +1,6 @@
 # Similarity-Modeling-on-Citation-Network
 
-This is my Web Scale Algorithm course project. The problem we tried to solve was to find articles with similar citations. Our data contains a citation graph. For more information, you can read project information.
+This is my Web Scale Algorithm course project. The problem we tried to solve was to find articles with similar citations. Our data contains a citation graph. For more information, you can read the project report.
 
 ## Run
 
